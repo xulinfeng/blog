@@ -153,8 +153,8 @@ bs_nav_inverse: false
 menu_left: true
 
 ## 配置logo的url
-logo_url: /images/haomou.png
-bck_swf_url: /images/bck.swf
+logo_url: /blog/images/haomou.png
+bck_swf_url: /blog/images/bck.swf
 
 twitter_id:
 facebook_id:
